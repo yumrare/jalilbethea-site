@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://jalilbethea.com/sitemap.xml
